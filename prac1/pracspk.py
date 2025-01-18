@@ -3,7 +3,7 @@
 from pyspark.sql import SparkSession 
 
 spark = SparkSession.builder.master("local").appName("word_count").getOrCreate()
-rdd1 = spark.sparkContext.textFile("C:/Users/sayed/Desktop/DDP/practicals/tempdata.txt")
+rdd1 = spark.sparkContext.textFile("C:/Users/sayed/Desktop/DDP/prac1/tempdata.txt")
 rdd1.collect()
 rdd2= rdd1.flatMap(lambda x : x.split(" "))
 rdd3 = rdd2.map(lambda word :(word,1))
