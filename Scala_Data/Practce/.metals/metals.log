@@ -1,0 +1,1546 @@
+2024.12.07 07:13:41 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\sayed\Desktop\Practce' for client Visual Studio Code 1.95.3.
+2024.12.07 07:13:41 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.07 07:13:42 INFO  no build target found for C:\Users\sayed\Desktop\Practce\pract.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.07 07:13:44 INFO  Running List(C:\Users\sayed\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\sayed\Desktop\Practce)
+2024.12.07 07:13:45 INFO  Attempting to connect to the build server...
+2024.12.07 07:13:45 INFO  Running BSP server List(C:\Users\sayed\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\sayed\Desktop\Practce\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\sayed\Desktop\Practce\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\sayed\Desktop\Practce\.scala-build\ide-envs.json, C:\Users\sayed\Desktop\Practce)
+2024.12.07 07:13:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\sayed\Desktop\Practce\.metals\bsp.trace.json or C:\Users\sayed\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.07 07:13:48 INFO  BSP server: Starting compilation server
+2024.12.07 07:13:50 INFO  no build target found for C:\Users\sayed\Desktop\Practce\pract.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Dec 07, 2024 7:13:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Dec 07, 2024 7:13:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Dec 07, 2024 7:13:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Dec 07, 2024 7:13:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2024.12.07 07:13:51 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 07:13:53 INFO  time: Connected to build server in 7.66s
+2024.12.07 07:13:53 INFO  Connected to Build server: scala-cli v1.5.1
+2024.12.07 07:13:53 INFO  time: Imported build in 0.25s
+2024.12.07 07:13:53 INFO  running doctor check
+2024.12.07 07:13:53 INFO  java targets: Practce_f4dd477a3a, Practce_f4dd477a3a-test
+2024.12.07 07:13:54 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 07:13:56 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.07 07:13:56 INFO  time: compiled Practce_f4dd477a3a in 2.75s
+2024.12.07 07:14:09 INFO  time: indexed workspace in 16s
+2024.12.07 07:14:27 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 07:14:30 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 07:14:32 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 07:14:34 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 07:14:40 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+Dec 07, 2024 7:14:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 168
+2024.12.07 07:26:48 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 07:26:48 INFO  time: compiled Practce_f4dd477a3a in 0.95s
+Dec 07, 2024 7:27:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 806
+2024.12.07 07:27:13 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 07:27:13 INFO  time: compiled Practce_f4dd477a3a in 0.19s
+2024.12.07 07:27:15 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 07:27:15 INFO  time: compiled Practce_f4dd477a3a in 0.17s
+2024.12.07 07:27:43 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 07:27:45 INFO  time: compiled Practce_f4dd477a3a in 1.66s
+2024.12.07 07:29:49 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 07:29:49 INFO  time: compiled Practce_f4dd477a3a in 0.83s
+2024.12.07 07:52:29 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 07:52:29 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 07:52:30 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 07:52:30 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+Dec 07, 2024 7:55:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1113
+2024.12.07 07:55:25 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 07:55:25 INFO  time: compiled Practce_f4dd477a3a in 0.25s
+2024.12.07 07:56:05 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 07:56:05 INFO  time: compiled Practce_f4dd477a3a in 0.2s
+2024.12.07 08:02:12 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:12:1: stale bloop error: Illegal start of toplevel definition
+SumExample.main(Array())
+^^^^^^^^^^
+2024.12.07 08:02:12 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:12:1: stale bloop error: Illegal start of toplevel definition
+SumExample.main(Array())
+^^^^^^^^^^
+2024.12.07 08:02:12 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:02:12 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:02:12 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:02:13 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:03:16 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:12:1: stale bloop error: Illegal start of toplevel definition
+SumExample.main(Array())
+^^^^^^^^^^
+2024.12.07 08:03:16 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:03:17 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:03:17 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:03:18 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:03:18 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:04:00 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:04:00 INFO  time: compiled Practce_f4dd477a3a in 0.14s
+2024.12.07 08:04:19 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:3:33: stale bloop error: Missing return type
+    def main(args:Array[String])
+                                ^
+2024.12.07 08:04:19 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:4:5: stale bloop warning: A pure expression does nothing in statement position
+> {
+> 
+> 
+> 
+>     }
+2024.12.07 08:04:19 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:3:33: stale bloop error: Missing return type
+    def main(args:Array[String])
+                                ^
+2024.12.07 08:04:19 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:4:5: stale bloop warning: A pure expression does nothing in statement position
+> {
+> 
+> 
+> 
+>     }
+2024.12.07 08:04:19 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:04:19 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:04:21 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:04:26 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:3:33: stale bloop error: Missing return type
+    def main(args:Array[String])
+                                ^
+2024.12.07 08:04:26 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:4:5: stale bloop warning: A pure expression does nothing in statement position
+> {
+> 
+> 
+> 
+>     }
+2024.12.07 08:04:26 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:04:27 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:04:27 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:04:28 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:04:28 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:04:28 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:04:29 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:04:41 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:3:33: stale bloop error: Missing return type
+    def main(args:Array[String])
+                                ^
+2024.12.07 08:04:41 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:4:5: stale bloop warning: A pure expression does nothing in statement position
+> {
+> 
+> 
+> 
+>     }
+2024.12.07 08:04:41 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:04:42 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:04:42 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:04:42 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:05:02 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:05:02 INFO  time: compiled Practce_f4dd477a3a in 0.1s
+2024.12.07 08:05:57 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:05:57 INFO  time: compiled Practce_f4dd477a3a in 0.22s
+2024.12.07 08:06:37 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:3:33: stale bloop error: Missing return type
+    def main(args:Array[String])
+                                ^
+2024.12.07 08:06:37 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:9: stale bloop error: None of the overloaded alternatives of method println in object Predef with types
+ (x: Any): Unit
+ (): Unit
+match arguments (("The sum of the numbers is " : String), (sum : Int))
+        println("The sum of the numbers is ",sum)
+        ^^^^^^^
+2024.12.07 08:06:37 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:3:33: stale bloop error: Missing return type
+    def main(args:Array[String])
+                                ^
+2024.12.07 08:06:37 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:9: stale bloop error: None of the overloaded alternatives of method println in object Predef with types
+ (x: Any): Unit
+ (): Unit
+match arguments (("The sum of the numbers is " : String), (sum : Int))
+        println("The sum of the numbers is ",sum)
+        ^^^^^^^
+2024.12.07 08:06:37 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:06:47 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:06:47 INFO  time: compiled Practce_f4dd477a3a in 0.13s
+2024.12.07 08:06:48 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:6:33: stale bloop error: Missing return type
+    def main(args:Array[String])  
+                                ^
+2024.12.07 08:06:48 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:9:18: stale bloop error: Not found: SortedSet
+        val s1 = SortedSet(4, 1, 2, 3)  
+                 ^^^^^^^^^
+2024.12.07 08:06:48 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:6:33: stale bloop error: Missing return type
+    def main(args:Array[String])  
+                                ^
+2024.12.07 08:06:48 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:9:18: stale bloop error: Not found: SortedSet
+        val s1 = SortedSet(4, 1, 2, 3)  
+                 ^^^^^^^^^
+2024.12.07 08:06:48 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:06:51 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:06:51 INFO  time: compiled Practce_f4dd477a3a in 0.18s
+Dec 07, 2024 8:07:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2708
+2024.12.07 08:08:47 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:3:33: stale bloop error: Missing return type
+    def main(args:Array[String])
+                                ^
+2024.12.07 08:08:47 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:9: stale bloop error: None of the overloaded alternatives of method println in object Predef with types
+ (x: Any): Unit
+ (): Unit
+match arguments (("The sum of the numbers is " : String), (sum : Int))
+        println("The sum of the numbers is ",sum)
+        ^^^^^^^
+2024.12.07 08:08:47 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:3:33: stale bloop error: Missing return type
+    def main(args:Array[String])
+                                ^
+2024.12.07 08:08:47 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:9: stale bloop error: None of the overloaded alternatives of method println in object Predef with types
+ (x: Any): Unit
+ (): Unit
+match arguments (("The sum of the numbers is " : String), (sum : Int))
+        println("The sum of the numbers is ",sum)
+        ^^^^^^^
+2024.12.07 08:08:47 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:08:48 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:08:48 INFO  time: compiled Practce_f4dd477a3a in 63ms
+2024.12.07 08:08:48 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:08:52 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:08:52 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:08:53 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:08:53 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:08:53 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:08:55 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:08:55 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:08:55 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:10:31 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:10:31 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:10:33 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:10:33 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:10:33 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:10:35 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:10:35 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:10:38 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:10:39 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:10:40 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:10:42 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:10:42 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:10:42 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:10:44 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+Dec 07, 2024 8:10:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3171
+2024.12.07 08:11:17 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:11:17 INFO  time: compiled Practce_f4dd477a3a in 94ms
+2024.12.07 08:11:17 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:11:17 INFO  time: compiled Practce_f4dd477a3a in 79ms
+2024.12.07 08:11:44 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:11:44 INFO  time: compiled Practce_f4dd477a3a in 74ms
+2024.12.07 08:11:58 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:11:58 INFO  time: compiled Practce_f4dd477a3a in 72ms
+2024.12.07 08:12:03 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:12:03 INFO  time: compiled Practce_f4dd477a3a in 99ms
+2024.12.07 08:12:03 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:12:03 INFO  time: compiled Practce_f4dd477a3a in 70ms
+2024.12.07 08:15:04 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:15:04 INFO  time: compiled Practce_f4dd477a3a in 93ms
+2024.12.07 08:17:13 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:17:13 INFO  time: compiled Practce_f4dd477a3a in 0.31s
+2024.12.07 08:20:56 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:20:57 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:20:57 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:20:57 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:20:57 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:20:58 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:20:59 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:22:04 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:22:04 INFO  time: compiled Practce_f4dd477a3a in 80ms
+2024.12.07 08:22:15 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:22:15 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:3:9: stale bloop error: Declaration of method main not allowed here: only classes can have declared but undefined members
+    def main(args:Array[String]):Unit
+        ^
+2024.12.07 08:22:15 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:4:5: stale bloop warning: A pure expression does nothing in statement position
+> {
+> 
+> 
+> 
+> 
+>     }
+2024.12.07 08:22:15 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:3:9: stale bloop error: Declaration of method main not allowed here: only classes can have declared but undefined members
+    def main(args:Array[String]):Unit
+        ^
+2024.12.07 08:22:15 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:4:5: stale bloop warning: A pure expression does nothing in statement position
+> {
+> 
+> 
+> 
+> 
+>     }
+2024.12.07 08:22:16 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:22:17 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:22:17 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:22:17 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:22:17 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+Dec 07, 2024 8:22:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4607
+2024.12.07 08:22:52 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:22:52 INFO  time: compiled Practce_f4dd477a3a in 0.12s
+2024.12.07 08:22:56 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:22:56 INFO  time: compiled Practce_f4dd477a3a in 75ms
+Dec 07, 2024 8:26:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4967
+2024.12.07 08:26:57 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:26:57 INFO  time: compiled Practce_f4dd477a3a in 71ms
+2024.12.07 08:27:02 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:27:02 INFO  time: compiled Practce_f4dd477a3a in 87ms
+2024.12.07 08:27:04 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:27:04 INFO  time: compiled Practce_f4dd477a3a in 94ms
+2024.12.07 08:27:04 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:27:04 INFO  time: compiled Practce_f4dd477a3a in 60ms
+2024.12.07 08:27:21 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:27:21 INFO  time: compiled Practce_f4dd477a3a in 77ms
+2024.12.07 08:27:51 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:27:51 INFO  time: compiled Practce_f4dd477a3a in 69ms
+Dec 07, 2024 8:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5466
+2024.12.07 08:28:26 INFO  time: compiled Practce_f4dd477a3a in 2ms
+Dec 07, 2024 8:28:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5517
+Dec 07, 2024 8:28:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5546
+2024.12.07 08:29:20 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:29:20 INFO  time: compiled Practce_f4dd477a3a in 0.28s
+2024.12.07 08:29:28 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:29:28 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:29:29 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:29:29 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:29:30 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.07 08:30:01 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:30:01 INFO  time: compiled Practce_f4dd477a3a in 0.2s
+Dec 07, 2024 8:34:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6304
+Dec 07, 2024 8:34:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6306
+2024.12.07 08:34:28 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:34:28 INFO  time: compiled Practce_f4dd477a3a in 79ms
+2024.12.07 08:34:36 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:34:36 INFO  time: compiled Practce_f4dd477a3a in 0.22s
+Dec 07, 2024 8:34:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6416
+2024.12.07 08:34:55 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:34:55 INFO  time: compiled Practce_f4dd477a3a in 0.11s
+2024.12.07 08:35:02 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:35:02 INFO  time: compiled Practce_f4dd477a3a in 94ms
+2024.12.07 08:36:48 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:36:48 INFO  time: compiled Practce_f4dd477a3a in 0.1s
+2024.12.07 08:36:54 INFO  compiling practce_f4dd477a3a (1 scala source)
+2024.12.07 08:36:54 INFO  time: compiled Practce_f4dd477a3a in 99ms
+2024.12.07 09:02:46 INFO  Shutting down server
+2024.12.07 09:02:46 INFO  shutting down Metals
+2024.12.07 09:02:46 INFO  Shut down connection with build server.
+2024.12.07 09:02:46 INFO  Exiting server
+2024.12.15 14:44:54 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\sayed\Desktop\Practce' for client Visual Studio Code 1.95.3.
+2024.12.15 14:44:56 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.15 14:44:56 INFO  no build target found for C:\Users\sayed\Desktop\Practce\pract.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Dec 15, 2024 2:44:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Dec 15, 2024 2:44:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.12.15 14:45:00 INFO  Attempting to connect to the build server...
+2024.12.15 14:45:00 INFO  Running BSP server List(C:\Users\sayed\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\sayed\Desktop\Practce\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\sayed\Desktop\Practce\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\sayed\Desktop\Practce\.scala-build\ide-envs.json, C:\Users\sayed\Desktop\Practce)
+2024.12.15 14:45:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\sayed\Desktop\Practce\.metals\bsp.trace.json or C:\Users\sayed\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.15 14:45:04 INFO  BSP server: Starting compilation server
+2024.12.15 14:45:07 INFO  time: Connected to build server in 7.38s
+2024.12.15 14:45:07 INFO  Connected to Build server: scala-cli v1.5.1
+2024.12.15 14:45:07 INFO  time: Imported build in 0.2s
+2024.12.15 14:45:07 INFO  running doctor check
+2024.12.15 14:45:07 INFO  java targets: Practce_c5f4a36e81-test, Practce_c5f4a36e81
+2024.12.15 14:45:08 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.15 14:45:12 INFO  time: compiled Practce_c5f4a36e81 in 3.9s
+2024.12.15 14:45:12 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.15 14:45:13 INFO  time: compiled Practce_c5f4a36e81 in 0.77s
+2024.12.15 14:45:16 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.15 14:45:16 INFO  time: indexed workspace in 9.32s
+2024.12.15 14:45:17 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.15 14:45:17 INFO  time: compiled Practce_c5f4a36e81 in 0.34s
+2024.12.15 14:45:17 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.15 14:45:17 INFO  time: compiled Practce_c5f4a36e81 in 0.28s
+2024.12.15 15:13:23 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:17: stale bloop error: Not found: s
+        println(s,"The sum of the numbers is $sum")
+                ^
+2024.12.15 15:13:23 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:9: stale bloop error: None of the overloaded alternatives of method println in object Predef with types
+ (x: Any): Unit
+ (): Unit
+match arguments (<error Not found: s>, ("The sum of the numbers is $sum" : String))
+        println(s,"The sum of the numbers is $sum")
+        ^^^^^^^
+2024.12.15 15:13:23 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.15 15:13:24 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.15 15:13:24 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:17: stale bloop error: Not found: s
+        println(s,"The sum of the numbers is $sum")
+                ^
+2024.12.15 15:13:24 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:9: stale bloop error: None of the overloaded alternatives of method println in object Predef with types
+ (x: Any): Unit
+ (): Unit
+match arguments (<error Not found: s>, ("The sum of the numbers is $sum" : String))
+        println(s,"The sum of the numbers is $sum")
+        ^^^^^^^
+2024.12.15 15:13:24 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:17: stale bloop error: Not found: s
+        println(s,"The sum of the numbers is $sum")
+                ^
+2024.12.15 15:13:24 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:9: stale bloop error: None of the overloaded alternatives of method println in object Predef with types
+ (x: Any): Unit
+ (): Unit
+match arguments (<error Not found: s>, ("The sum of the numbers is $sum" : String))
+        println(s,"The sum of the numbers is $sum")
+        ^^^^^^^
+2024.12.15 15:13:24 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.15 15:13:24 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.15 15:13:24 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:17: stale bloop error: Not found: s
+        println(s,"The sum of the numbers is $sum")
+                ^
+2024.12.15 15:13:24 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:9: stale bloop error: None of the overloaded alternatives of method println in object Predef with types
+ (x: Any): Unit
+ (): Unit
+match arguments (<error Not found: s>, ("The sum of the numbers is $sum" : String))
+        println(s,"The sum of the numbers is $sum")
+        ^^^^^^^
+2024.12.15 15:13:24 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:17: stale bloop error: Not found: s
+        println(s,"The sum of the numbers is $sum")
+                ^
+2024.12.15 15:13:24 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:9: stale bloop error: None of the overloaded alternatives of method println in object Predef with types
+ (x: Any): Unit
+ (): Unit
+match arguments (<error Not found: s>, ("The sum of the numbers is $sum" : String))
+        println(s,"The sum of the numbers is $sum")
+        ^^^^^^^
+2024.12.15 15:13:25 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.15 15:13:26 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.15 15:13:27 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.15 15:13:26 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.15 15:13:27 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.15 15:13:41 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:17: stale bloop error: Not found: s
+        println(s,"The sum of the numbers is $sum")
+                ^
+2024.12.15 15:13:41 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:9: stale bloop error: None of the overloaded alternatives of method println in object Predef with types
+ (x: Any): Unit
+ (): Unit
+match arguments (<error Not found: s>, ("The sum of the numbers is $sum" : String))
+        println(s,"The sum of the numbers is $sum")
+        ^^^^^^^
+2024.12.15 15:13:41 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:17: stale bloop error: Not found: s
+        println(s,"The sum of the numbers is $sum")
+                ^
+2024.12.15 15:13:41 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:9: stale bloop error: None of the overloaded alternatives of method println in object Predef with types
+ (x: Any): Unit
+ (): Unit
+match arguments (<error Not found: s>, ("The sum of the numbers is $sum" : String))
+        println(s,"The sum of the numbers is $sum")
+        ^^^^^^^
+2024.12.15 15:13:41 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+Dec 15, 2024 3:14:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 577
+2024.12.15 15:19:58 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:17: stale bloop error: Not found: s
+        println(s,"The sum of the numbers is $sum")
+                ^
+2024.12.15 15:19:58 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:9: stale bloop error: None of the overloaded alternatives of method println in object Predef with types
+ (x: Any): Unit
+ (): Unit
+match arguments (<error Not found: s>, ("The sum of the numbers is $sum" : String))
+        println(s,"The sum of the numbers is $sum")
+        ^^^^^^^
+2024.12.15 15:19:58 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:17: stale bloop error: Not found: s
+        println(s,"The sum of the numbers is $sum")
+                ^
+2024.12.15 15:19:58 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:9: stale bloop error: None of the overloaded alternatives of method println in object Predef with types
+ (x: Any): Unit
+ (): Unit
+match arguments (<error Not found: s>, ("The sum of the numbers is $sum" : String))
+        println(s,"The sum of the numbers is $sum")
+        ^^^^^^^
+2024.12.15 15:19:58 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.15 15:20:00 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.15 15:20:00 INFO  time: compiled Practce_c5f4a36e81 in 0.23s
+2024.12.15 15:38:07 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.15 15:38:07 INFO  time: compiled Practce_c5f4a36e81 in 0.2s
+2024.12.15 23:37:16 INFO  Shutting down server
+2024.12.15 23:37:16 INFO  shutting down Metals
+2024.12.15 23:37:16 INFO  Shut down connection with build server.
+2024.12.15 23:37:16 INFO  Exiting server
+2024.12.16 07:35:48 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\sayed\Desktop\Practce' for client Visual Studio Code 1.96.0.
+2024.12.16 07:35:49 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.16 07:35:49 INFO  no build target found for C:\Users\sayed\Desktop\Practce\pract.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Dec 16, 2024 7:35:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Dec 16, 2024 7:35:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.12.16 07:35:51 INFO  Attempting to connect to the build server...
+2024.12.16 07:35:51 INFO  Running BSP server List(C:\Users\sayed\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\sayed\Desktop\Practce\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\sayed\Desktop\Practce\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\sayed\Desktop\Practce\.scala-build\ide-envs.json, C:\Users\sayed\Desktop\Practce)
+2024.12.16 07:35:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\sayed\Desktop\Practce\.metals\bsp.trace.json or C:\Users\sayed\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.16 07:35:53 INFO  BSP server: Starting compilation server
+2024.12.16 07:35:57 INFO  time: Connected to build server in 6.16s
+2024.12.16 07:35:57 INFO  Connected to Build server: scala-cli v1.5.1
+2024.12.16 07:35:57 INFO  time: Imported build in 0.18s
+2024.12.16 07:35:57 INFO  running doctor check
+2024.12.16 07:35:57 INFO  java targets: Practce_c5f4a36e81-test, Practce_c5f4a36e81
+2024.12.16 07:35:58 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 07:36:00 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.16 07:36:02 INFO  time: indexed workspace in 4.69s
+2024.12.16 07:36:02 INFO  time: compiled Practce_c5f4a36e81 in 3.99s
+2024.12.16 07:36:02 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 07:36:02 INFO  time: compiled Practce_c5f4a36e81 in 0.54s
+2024.12.16 07:36:02 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 07:36:02 INFO  time: compiled Practce_c5f4a36e81 in 0.28s
+2024.12.16 07:36:03 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 07:36:03 INFO  time: compiled Practce_c5f4a36e81 in 0.29s
+2024.12.16 08:36:53 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 08:36:53 INFO  time: compiled Practce_c5f4a36e81 in 0.26s
+2024.12.16 08:36:53 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 08:36:53 INFO  time: compiled Practce_c5f4a36e81 in 0.35s
+2024.12.16 09:20:21 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:17: stale bloop error: Not found: s
+        println(s,"The sum of the numbers is $sum")
+                ^
+2024.12.16 09:20:21 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:9: stale bloop error: None of the overloaded alternatives of method println in object Predef with types
+ (x: Any): Unit
+ (): Unit
+match arguments (<error Not found: s>, ("The sum of the numbers is $sum" : String))
+        println(s,"The sum of the numbers is $sum")
+        ^^^^^^^
+2024.12.16 09:20:21 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:20:22 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:20:22 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:17: stale bloop error: Not found: s
+        println(s,"The sum of the numbers is $sum")
+                ^
+2024.12.16 09:20:22 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:9: stale bloop error: None of the overloaded alternatives of method println in object Predef with types
+ (x: Any): Unit
+ (): Unit
+match arguments (<error Not found: s>, ("The sum of the numbers is $sum" : String))
+        println(s,"The sum of the numbers is $sum")
+        ^^^^^^^
+2024.12.16 09:20:22 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:17: stale bloop error: Not found: s
+        println(s,"The sum of the numbers is $sum")
+                ^
+2024.12.16 09:20:22 INFO  file:///C:/Users/sayed/Desktop/Practce/pract.scala:7:9: stale bloop error: None of the overloaded alternatives of method println in object Predef with types
+ (x: Any): Unit
+ (): Unit
+match arguments (<error Not found: s>, ("The sum of the numbers is $sum" : String))
+        println(s,"The sum of the numbers is $sum")
+        ^^^^^^^
+2024.12.16 09:20:22 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:20:22 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:20:23 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:21:13 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 09:21:14 INFO  time: compiled Practce_c5f4a36e81 in 1.21s
+2024.12.16 09:21:29 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:21:30 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:21:30 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:21:31 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:21:30 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:22:09 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 09:22:09 INFO  time: compiled Practce_c5f4a36e81 in 0.11s
+2024.12.16 09:22:15 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 09:22:15 INFO  time: compiled Practce_c5f4a36e81 in 0.3s
+2024.12.16 09:22:32 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:22:32 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:22:32 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:22:33 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:22:33 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:22:34 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+Dec 16, 2024 9:22:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1067
+Dec 16, 2024 9:22:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1111
+Dec 16, 2024 9:23:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1554
+Dec 16, 2024 9:23:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1555
+Dec 16, 2024 9:23:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1559
+Dec 16, 2024 9:23:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1560
+2024.12.16 09:23:45 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 09:23:45 INFO  time: compiled Practce_c5f4a36e81 in 0.34s
+Dec 16, 2024 9:26:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at scala.meta.internal.tokenizers.LegacyScanner.initialize(LegacyScanner.scala:157)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:19)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:15)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:15)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$1.apply(ScalametaTokenizer.scala:299)
+	at scala.meta.internal.parsers.ScannerTokens$.apply(ScannerTokens.scala:936)
+	at scala.meta.internal.parsers.ScalametaParser.<init>(ScalametaParser.scala:34)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:36)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputOffset.safeParse(ScalametaCommonEnrichments.scala:579)
+	at scala.meta.internal.parsing.Trees.$anonfun$parse$2(Trees.scala:181)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.parsing.Trees.parse(Trees.scala:172)
+	at scala.meta.internal.parsing.Trees.didChange(Trees.scala:132)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$parseTreesAndPublishDiags$2(MetalsLspService.scala:626)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Dec 16, 2024 9:26:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: Index 1 out of bounds for length 1
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at scala.meta.internal.tokenizers.LegacyScanner.initialize(LegacyScanner.scala:157)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:19)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:15)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:15)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$1.apply(ScalametaTokenizer.scala:299)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionStringDocMeta.safeTokenize(ScalametaCommonEnrichments.scala:238)
+	at scala.meta.internal.metals.codeactions.StringActions.$anonfun$contribute$1(StringActions.scala:34)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.StringActions.contribute(StringActions.scala:33)
+	at scala.meta.internal.metals.codeactions.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:73)
+	at scala.meta.internal.metals.codeactions.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:71)
+	at scala.collection.immutable.List.collect(List.scala:276)
+	at scala.meta.internal.metals.codeactions.CodeActionProvider.codeActions(CodeActionProvider.scala:71)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeAction$1(MetalsLspService.scala:1208)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.codeAction(MetalsLspService.scala:1207)
+	at scala.meta.internal.metals.WorkspaceLspService.codeAction(WorkspaceLspService.scala:525)
+	at scala.meta.metals.lsp.DelegatingScalaService.codeAction(DelegatingScalaService.scala:146)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+
+Dec 16, 2024 9:26:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at scala.meta.internal.tokenizers.LegacyScanner.initialize(LegacyScanner.scala:157)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:19)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:15)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:15)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$1.apply(ScalametaTokenizer.scala:299)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionStringDocMeta.safeTokenize(ScalametaCommonEnrichments.scala:238)
+	at scala.meta.internal.parsing.Trees.tokenized(Trees.scala:164)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:505)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.RunTestCodeLens.codeLenses(RunTestCodeLens.scala:86)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$4(CodeLensProvider.scala:29)
+	at scala.collection.immutable.List.map(List.scala:247)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:29)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:27)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$3(MetalsLspService.scala:1221)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1219)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	... 3 more
+
+2024.12.16 09:26:16 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:16 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+Dec 16, 2024 9:26:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1874
+2024.12.16 09:26:16 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:16 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:17 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:17 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:17 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:18 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:19 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:19 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:20 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:20 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:21 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:21 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:21 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:21 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:22 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:23 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:22 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:24 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:24 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:24 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:25 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:24 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:27 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:27 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:27 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:26:30 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+Dec 16, 2024 9:26:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2111
+2024.12.16 09:26:36 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+Dec 16, 2024 9:26:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: Index 103 out of bounds for length 79
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: Index 103 out of bounds for length 79
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: java.lang.StringIndexOutOfBoundsException: Index 103 out of bounds for length 79
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.lang.String.checkIndex(String.java:4570)
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:46)
+	at java.base/java.lang.String.charAt(String.java:1527)
+	at scala.collection.StringOps$.apply$extension(StringOps.scala:190)
+	at scala.meta.internal.metals.codeactions.ExtractValueCodeAction.$anonfun$contribute$13(ExtractValueCodeAction.scala:61)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.ExtractValueCodeAction.$anonfun$contribute$12(ExtractValueCodeAction.scala:58)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.ExtractValueCodeAction.$anonfun$contribute$9(ExtractValueCodeAction.scala:56)
+	at scala.Option$WithFilter.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.ExtractValueCodeAction.$anonfun$contribute$7(ExtractValueCodeAction.scala:53)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.ExtractValueCodeAction.$anonfun$contribute$6(ExtractValueCodeAction.scala:52)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.codeactions.ExtractValueCodeAction.$anonfun$contribute$1(ExtractValueCodeAction.scala:50)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Dec 16, 2024 9:26:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: Index 103 out of bounds for length 81
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: Index 103 out of bounds for length 81
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: java.lang.StringIndexOutOfBoundsException: Index 103 out of bounds for length 81
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.lang.String.checkIndex(String.java:4570)
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:46)
+	at java.base/java.lang.String.charAt(String.java:1527)
+	at scala.collection.StringOps$.apply$extension(StringOps.scala:190)
+	at scala.meta.internal.metals.codeactions.ExtractValueCodeAction.$anonfun$contribute$13(ExtractValueCodeAction.scala:61)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.ExtractValueCodeAction.$anonfun$contribute$12(ExtractValueCodeAction.scala:58)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.ExtractValueCodeAction.$anonfun$contribute$9(ExtractValueCodeAction.scala:56)
+	at scala.Option$WithFilter.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.ExtractValueCodeAction.$anonfun$contribute$7(ExtractValueCodeAction.scala:53)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.ExtractValueCodeAction.$anonfun$contribute$6(ExtractValueCodeAction.scala:52)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.codeactions.ExtractValueCodeAction.$anonfun$contribute$1(ExtractValueCodeAction.scala:50)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Dec 16, 2024 9:27:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2538
+Dec 16, 2024 9:27:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2539
+Dec 16, 2024 9:27:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2545
+2024.12.16 09:28:02 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 09:28:02 INFO  time: compiled Practce_c5f4a36e81 in 0.15s
+2024.12.16 09:28:16 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 09:28:16 INFO  time: compiled Practce_c5f4a36e81 in 96ms
+2024.12.16 09:28:16 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 09:28:16 INFO  time: compiled Practce_c5f4a36e81 in 0.12s
+2024.12.16 09:28:16 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 09:28:16 INFO  time: compiled Practce_c5f4a36e81 in 0.1s
+2024.12.16 09:28:17 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 09:28:17 INFO  time: compiled Practce_c5f4a36e81 in 85ms
+2024.12.16 09:28:29 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 09:28:29 INFO  time: compiled Practce_c5f4a36e81 in 77ms
+Dec 16, 2024 9:28:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 205
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 205
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 205
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112)
+	at java.base/jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349)
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+	at java.base/java.lang.String.substring(String.java:2715)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.getIndentForPos(FlatMapToForComprehensionCodeAction.scala:679)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$4(FlatMapToForComprehensionCodeAction.scala:59)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:55)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:54)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:53)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Dec 16, 2024 9:28:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 209
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 209
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 209
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112)
+	at java.base/jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349)
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+	at java.base/java.lang.String.substring(String.java:2715)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.getIndentForPos(FlatMapToForComprehensionCodeAction.scala:679)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$4(FlatMapToForComprehensionCodeAction.scala:59)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:55)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:54)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:53)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Dec 16, 2024 9:28:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 211
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 211
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 211
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112)
+	at java.base/jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349)
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+	at java.base/java.lang.String.substring(String.java:2715)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.getIndentForPos(FlatMapToForComprehensionCodeAction.scala:679)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$4(FlatMapToForComprehensionCodeAction.scala:59)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:55)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:54)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:53)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Dec 16, 2024 9:28:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 211
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 211
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 211
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112)
+	at java.base/jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349)
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+	at java.base/java.lang.String.substring(String.java:2715)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.getIndentForPos(FlatMapToForComprehensionCodeAction.scala:679)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$4(FlatMapToForComprehensionCodeAction.scala:59)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:55)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:54)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:53)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Dec 16, 2024 9:28:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 212
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 212
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 212
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112)
+	at java.base/jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349)
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+	at java.base/java.lang.String.substring(String.java:2715)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.getIndentForPos(FlatMapToForComprehensionCodeAction.scala:679)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$4(FlatMapToForComprehensionCodeAction.scala:59)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:55)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:54)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:53)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Dec 16, 2024 9:28:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 213
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 213
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 213
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112)
+	at java.base/jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349)
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+	at java.base/java.lang.String.substring(String.java:2715)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.getIndentForPos(FlatMapToForComprehensionCodeAction.scala:679)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$4(FlatMapToForComprehensionCodeAction.scala:59)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:55)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:54)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:53)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Dec 16, 2024 9:28:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 214
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 214
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: java.lang.StringIndexOutOfBoundsException: Range [207, 231) out of bounds for length 214
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112)
+	at java.base/jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349)
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
+	at java.base/java.lang.String.substring(String.java:2715)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.getIndentForPos(FlatMapToForComprehensionCodeAction.scala:679)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$4(FlatMapToForComprehensionCodeAction.scala:59)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:55)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:54)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:53)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2024.12.16 09:29:18 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 09:29:18 INFO  time: compiled Practce_c5f4a36e81 in 0.14s
+2024.12.16 09:29:48 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 09:29:48 INFO  time: compiled Practce_c5f4a36e81 in 0.1s
+2024.12.16 09:30:16 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 09:30:16 INFO  time: compiled Practce_c5f4a36e81 in 0.11s
+2024.12.16 09:30:22 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 09:30:22 INFO  time: compiled Practce_c5f4a36e81 in 0.12s
+2024.12.16 09:30:22 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 09:30:22 INFO  time: compiled Practce_c5f4a36e81 in 0.12s
+2024.12.16 09:30:24 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 09:30:24 INFO  time: compiled Practce_c5f4a36e81 in 0.13s
+2024.12.16 09:30:31 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 09:30:31 INFO  time: compiled Practce_c5f4a36e81 in 82ms
+2024.12.16 09:31:12 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 09:31:12 INFO  time: compiled Practce_c5f4a36e81 in 0.29s
+Dec 16, 2024 9:41:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at scala.meta.internal.tokenizers.LegacyScanner.initialize(LegacyScanner.scala:157)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:19)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:15)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:15)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$1.apply(ScalametaTokenizer.scala:299)
+	at scala.meta.internal.parsers.ScannerTokens$.apply(ScannerTokens.scala:936)
+	at scala.meta.internal.parsers.ScalametaParser.<init>(ScalametaParser.scala:34)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:36)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputOffset.safeParse(ScalametaCommonEnrichments.scala:579)
+	at scala.meta.internal.parsing.Trees.$anonfun$parse$2(Trees.scala:181)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.parsing.Trees.parse(Trees.scala:172)
+	at scala.meta.internal.parsing.Trees.didChange(Trees.scala:132)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$parseTreesAndPublishDiags$2(MetalsLspService.scala:626)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Dec 16, 2024 9:41:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: Index 1 out of bounds for length 1
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at scala.meta.internal.tokenizers.LegacyScanner.initialize(LegacyScanner.scala:157)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:19)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:15)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:15)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$1.apply(ScalametaTokenizer.scala:299)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionStringDocMeta.safeTokenize(ScalametaCommonEnrichments.scala:238)
+	at scala.meta.internal.metals.codeactions.StringActions.$anonfun$contribute$1(StringActions.scala:34)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.StringActions.contribute(StringActions.scala:33)
+	at scala.meta.internal.metals.codeactions.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:73)
+	at scala.meta.internal.metals.codeactions.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:71)
+	at scala.collection.immutable.List.collect(List.scala:276)
+	at scala.meta.internal.metals.codeactions.CodeActionProvider.codeActions(CodeActionProvider.scala:71)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeAction$1(MetalsLspService.scala:1208)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.codeAction(MetalsLspService.scala:1207)
+	at scala.meta.internal.metals.WorkspaceLspService.codeAction(WorkspaceLspService.scala:525)
+	at scala.meta.metals.lsp.DelegatingScalaService.codeAction(DelegatingScalaService.scala:146)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+
+Dec 16, 2024 9:41:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at scala.meta.internal.tokenizers.LegacyScanner.initialize(LegacyScanner.scala:157)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:19)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:15)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:15)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$1.apply(ScalametaTokenizer.scala:299)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionStringDocMeta.safeTokenize(ScalametaCommonEnrichments.scala:238)
+	at scala.meta.internal.parsing.Trees.tokenized(Trees.scala:164)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:505)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.RunTestCodeLens.codeLenses(RunTestCodeLens.scala:86)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$4(CodeLensProvider.scala:29)
+	at scala.collection.immutable.List.map(List.scala:247)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:29)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:27)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$3(MetalsLspService.scala:1221)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1219)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	... 3 more
+
+2024.12.16 09:41:48 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:41:53 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:41:55 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:42:00 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:42:00 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 09:42:00 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+Dec 16, 2024 9:42:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3869
+2024.12.16 09:42:33 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 09:42:33 INFO  time: compiled Practce_c5f4a36e81 in 0.22s
+2024.12.16 09:42:33 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 09:42:34 INFO  time: compiled Practce_c5f4a36e81 in 0.3s
+2024.12.16 10:18:09 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:10 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:18:10 INFO  time: compiled Practce_c5f4a36e81 in 66ms
+2024.12.16 10:18:10 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:48 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:49 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:48 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:50 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:50 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:51 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:51 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:51 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:52 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:53 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:54 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:54 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:54 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:54 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+Dec 16, 2024 10:18:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4040
+2024.12.16 10:18:55 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:56 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:56 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:57 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:57 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:57 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:57 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:58 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:59 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:58 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:18:59 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:19:00 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:19:00 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:19:01 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:19:01 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:19:02 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+Dec 16, 2024 10:19:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4127
+Dec 16, 2024 10:19:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4128
+2024.12.16 10:19:02 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:19:03 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:19:04 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:19:04 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:19:04 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:19:05 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:19:05 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:19:06 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:19:06 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:19:06 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:19:06 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:19:07 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:19:07 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:19:09 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:19:10 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:19:10 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:21:03 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:21:03 INFO  time: compiled Practce_c5f4a36e81 in 0.13s
+2024.12.16 10:21:12 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:21:12 INFO  time: compiled Practce_c5f4a36e81 in 0.1s
+2024.12.16 10:21:15 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:21:15 INFO  time: compiled Practce_c5f4a36e81 in 92ms
+2024.12.16 10:21:27 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:21:27 INFO  time: compiled Practce_c5f4a36e81 in 86ms
+2024.12.16 10:21:31 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:21:31 INFO  time: compiled Practce_c5f4a36e81 in 91ms
+2024.12.16 10:21:36 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:21:36 INFO  time: compiled Practce_c5f4a36e81 in 93ms
+2024.12.16 10:21:50 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:21:50 INFO  time: compiled Practce_c5f4a36e81 in 81ms
+2024.12.16 10:21:56 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:21:56 INFO  time: compiled Practce_c5f4a36e81 in 83ms
+2024.12.16 10:22:01 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:22:01 INFO  time: compiled Practce_c5f4a36e81 in 0.1s
+2024.12.16 10:22:12 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:22:12 INFO  time: compiled Practce_c5f4a36e81 in 83ms
+2024.12.16 10:22:20 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:22:20 INFO  time: compiled Practce_c5f4a36e81 in 83ms
+2024.12.16 10:22:27 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:22:27 INFO  time: compiled Practce_c5f4a36e81 in 85ms
+2024.12.16 10:22:31 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:22:31 INFO  time: compiled Practce_c5f4a36e81 in 0.22s
+2024.12.16 10:23:16 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:23:17 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:23:17 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:23:18 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:23:18 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:23:18 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:23:18 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:23:53 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:23:53 INFO  time: compiled Practce_c5f4a36e81 in 0.23s
+2024.12.16 10:24:56 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:24:56 INFO  time: compiled Practce_c5f4a36e81 in 0.19s
+2024.12.16 10:36:10 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:10 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:10 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:11 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:11 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:12 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:12 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:13 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:13 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:13 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:13 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:13 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:13 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:15 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:15 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:16 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:16 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:17 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:16 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:17 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:18 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:18 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:19 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:36:19 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:37:20 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:37:20 INFO  time: compiled Practce_c5f4a36e81 in 0.12s
+2024.12.16 10:37:29 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:37:29 INFO  time: compiled Practce_c5f4a36e81 in 88ms
+2024.12.16 10:37:38 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:37:38 INFO  time: compiled Practce_c5f4a36e81 in 92ms
+2024.12.16 10:38:06 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:38:06 INFO  time: compiled Practce_c5f4a36e81 in 74ms
+2024.12.16 10:52:45 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:52:49 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:52:50 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:53:37 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:53:37 INFO  time: compiled Practce_c5f4a36e81 in 0.21s
+2024.12.16 10:53:55 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:53:55 INFO  time: compiled Practce_c5f4a36e81 in 0.17s
+2024.12.16 10:54:12 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:54:14 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:54:14 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:54:14 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:54:15 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:54:15 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:54:15 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+Dec 16, 2024 10:54:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8652
+2024.12.16 10:55:29 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:55:29 INFO  time: compiled Practce_c5f4a36e81 in 99ms
+2024.12.16 10:55:35 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:55:35 INFO  time: compiled Practce_c5f4a36e81 in 71ms
+2024.12.16 10:55:43 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:55:43 INFO  time: compiled Practce_c5f4a36e81 in 67ms
+2024.12.16 10:55:48 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:55:48 INFO  time: compiled Practce_c5f4a36e81 in 66ms
+2024.12.16 10:55:49 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:55:49 INFO  time: compiled Practce_c5f4a36e81 in 78ms
+2024.12.16 10:56:07 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:56:07 INFO  time: compiled Practce_c5f4a36e81 in 0.16s
+2024.12.16 10:56:07 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:56:08 INFO  time: compiled Practce_c5f4a36e81 in 0.19s
+2024.12.16 10:56:29 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:31 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:32 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+Dec 16, 2024 10:56:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9272
+2024.12.16 10:56:32 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+Dec 16, 2024 10:56:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9285
+2024.12.16 10:56:32 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+Dec 16, 2024 10:56:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9291
+Dec 16, 2024 10:56:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9293
+Dec 16, 2024 10:56:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9297
+2024.12.16 10:56:33 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:33 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+Dec 16, 2024 10:56:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9314
+2024.12.16 10:56:34 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:34 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:34 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:35 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:35 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:36 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:36 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:37 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:36 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:37 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:38 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:38 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:39 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:39 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:39 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:40 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:40 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:40 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:41 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:41 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:42 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:43 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:43 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:44 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:44 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:52 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:53 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:53 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 10:56:54 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+Dec 16, 2024 10:56:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9511
+2024.12.16 10:57:35 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:57:35 INFO  time: compiled Practce_c5f4a36e81 in 0.17s
+Dec 16, 2024 10:57:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10011
+2024.12.16 10:58:10 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:58:10 INFO  time: compiled Practce_c5f4a36e81 in 0.31s
+2024.12.16 10:58:19 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 10:58:19 INFO  time: compiled Practce_c5f4a36e81 in 0.23s
+2024.12.16 11:41:58 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 11:41:58 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+Dec 16, 2024 11:41:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10368
+2024.12.16 11:41:58 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 11:41:59 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 11:42:00 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 11:41:59 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 11:42:00 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 11:42:01 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 11:42:01 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 11:42:02 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 11:42:02 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.16 11:42:02 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+Dec 16, 2024 11:42:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10438
+Dec 16, 2024 11:42:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10767
+2024.12.16 11:43:10 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 11:43:10 INFO  time: compiled Practce_c5f4a36e81 in 0.2s
+2024.12.16 11:43:41 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 11:43:41 INFO  time: compiled Practce_c5f4a36e81 in 0.17s
+2024.12.16 11:44:32 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 11:44:32 INFO  time: compiled Practce_c5f4a36e81 in 97ms
+2024.12.16 11:44:35 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 11:44:35 INFO  time: compiled Practce_c5f4a36e81 in 67ms
+2024.12.16 11:44:56 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 11:44:56 INFO  time: compiled Practce_c5f4a36e81 in 69ms
+2024.12.16 11:45:01 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 11:45:01 INFO  time: compiled Practce_c5f4a36e81 in 66ms
+2024.12.16 11:45:09 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 11:45:09 INFO  time: compiled Practce_c5f4a36e81 in 63ms
+2024.12.16 11:58:27 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.16 11:58:27 INFO  time: compiled Practce_c5f4a36e81 in 0.2s
+2024.12.16 12:12:45 INFO  Shutting down server
+2024.12.16 12:12:45 INFO  shutting down Metals
+2024.12.16 12:12:45 INFO  Shut down connection with build server.
+2024.12.16 12:12:45 INFO  Exiting server
+2024.12.22 13:49:13 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\sayed\Desktop\Practce' for client Visual Studio Code 1.96.0.
+2024.12.22 13:49:15 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.22 13:49:16 INFO  Attempting to connect to the build server...
+2024.12.22 13:49:16 INFO  Running BSP server List(C:\Users\sayed\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\sayed\Desktop\Practce\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\sayed\Desktop\Practce\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\sayed\Desktop\Practce\.scala-build\ide-envs.json, C:\Users\sayed\Desktop\Practce)
+2024.12.22 13:49:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\sayed\Desktop\Practce\.metals\bsp.trace.json or C:\Users\sayed\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.22 13:49:19 INFO  BSP server: Starting compilation server
+2024.12.22 13:49:29 INFO  time: Connected to build server in 13s
+2024.12.22 13:49:29 INFO  Connected to Build server: scala-cli v1.5.1
+2024.12.22 13:49:30 INFO  time: Imported build in 0.26s
+2024.12.22 13:49:30 INFO  running doctor check
+2024.12.22 13:49:30 INFO  java targets: Practce_c5f4a36e81-test, Practce_c5f4a36e81
+2024.12.22 13:49:30 WARN  Bloop is running with 17 but your code requires 19.0.2 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version
+2024.12.22 13:49:30 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 13:49:36 INFO  time: compiled Practce_c5f4a36e81 in 5.26s
+2024.12.22 13:49:36 WARN  Bloop is running with 17 but your code requires 19.0.2 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version
+2024.12.22 13:49:36 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 13:49:36 INFO  time: compiled Practce_c5f4a36e81 in 0.69s
+2024.12.22 13:49:38 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.22 13:49:38 INFO  time: indexed workspace in 8.99s
+2024.12.22 13:49:39 WARN  Bloop is running with 17 but your code requires 19.0.2 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version
+2024.12.22 13:49:39 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 13:49:39 INFO  time: compiled Practce_c5f4a36e81 in 0.6s
+2024.12.22 13:49:39 WARN  Bloop is running with 17 but your code requires 19.0.2 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version
+2024.12.22 13:49:39 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 13:49:40 INFO  time: compiled Practce_c5f4a36e81 in 0.26s
+2024.12.22 13:53:10 WARN  Bloop is running with 17 but your code requires 19.0.2 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version
+2024.12.22 13:53:10 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 13:53:11 INFO  time: compiled Practce_c5f4a36e81 in 1.35s
+2024.12.22 13:53:31 WARN  Bloop is running with 17 but your code requires 19.0.2 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version
+2024.12.22 13:53:31 WARN  Bloop is running with 17 but your code requires 19.0.2 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version
+Dec 22, 2024 1:54:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 166
+Dec 22, 2024 1:54:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 167
+2024.12.22 13:54:39 WARN  Bloop is running with 17 but your code requires 19.0.2 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version
+2024.12.22 13:54:39 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 13:54:39 INFO  time: compiled Practce_c5f4a36e81 in 0.13s
+2024.12.22 13:56:10 WARN  Bloop is running with 17 but your code requires 19.0.2 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version
+2024.12.22 13:56:10 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 13:56:10 INFO  time: compiled Practce_c5f4a36e81 in 0.36s
+2024.12.22 14:03:20 INFO  Shutting down server
+2024.12.22 14:03:20 INFO  shutting down Metals
+2024.12.22 14:03:20 INFO  Shut down connection with build server.
+2024.12.22 14:03:20 INFO  Exiting server
+2024.12.22 14:04:34 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\sayed\Desktop\Practce' for client Visual Studio Code 1.96.2.
+2024.12.22 14:04:36 INFO  no build target found for C:\Users\sayed\Desktop\Practce\pract.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Dec 22, 2024 2:04:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.12.22 14:04:38 INFO  no build target found for C:\Users\sayed\Desktop\Practce\pract.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.22 14:04:38 INFO  Attempting to connect to the build server...
+2024.12.22 14:04:38 INFO  Running BSP server List(C:\Users\sayed\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\sayed\Desktop\Practce\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\sayed\Desktop\Practce\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\sayed\Desktop\Practce\.scala-build\ide-envs.json, C:\Users\sayed\Desktop\Practce)
+2024.12.22 14:04:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\sayed\Desktop\Practce\.metals\bsp.trace.json or C:\Users\sayed\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.22 14:04:40 INFO  BSP server: Starting compilation server
+2024.12.22 14:04:43 INFO  no build target found for C:\Users\sayed\Desktop\Practce\pract.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.22 14:04:43 INFO  no build target found for C:\Users\sayed\Desktop\Practce\pract.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.22 14:04:44 INFO  time: Connected to build server in 5.61s
+2024.12.22 14:04:44 INFO  Connected to Build server: scala-cli v1.5.1
+2024.12.22 14:04:44 INFO  time: Imported build in 0.13s
+2024.12.22 14:04:44 INFO  running doctor check
+2024.12.22 14:04:44 INFO  java targets: Practce_c5f4a36e81-test, Practce_c5f4a36e81
+2024.12.22 14:04:45 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 14:04:51 INFO  time: compiled Practce_c5f4a36e81 in 5.91s
+2024.12.22 14:04:51 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 14:04:52 INFO  time: compiled Practce_c5f4a36e81 in 1.13s
+2024.12.22 14:04:54 INFO  time: indexed workspace in 9.42s
+2024.12.22 14:06:02 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 14:06:02 INFO  time: compiled Practce_c5f4a36e81 in 0.29s
+2024.12.22 14:06:04 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 14:06:05 INFO  time: compiled Practce_c5f4a36e81 in 1.03s
+Dec 22, 2024 2:07:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 43
+2024.12.22 14:07:32 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 14:07:32 INFO  time: compiled Practce_c5f4a36e81 in 0.3s
+2024.12.22 14:08:01 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 14:08:01 INFO  time: compiled Practce_c5f4a36e81 in 0.36s
+2024.12.22 14:08:41 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 14:08:41 INFO  time: compiled Practce_c5f4a36e81 in 0.55s
+2024.12.22 14:08:41 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 14:08:42 INFO  time: compiled Practce_c5f4a36e81 in 0.26s
+2024.12.22 14:09:00 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 14:09:00 INFO  time: compiled Practce_c5f4a36e81 in 0.21s
+2024.12.22 14:09:02 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 14:09:02 INFO  time: compiled Practce_c5f4a36e81 in 0.38s
+2024.12.22 14:09:03 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 14:09:03 INFO  time: compiled Practce_c5f4a36e81 in 0.23s
+2024.12.22 14:09:03 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 14:09:03 INFO  time: compiled Practce_c5f4a36e81 in 0.21s
+2024.12.22 14:09:05 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 14:09:05 INFO  time: compiled Practce_c5f4a36e81 in 0.22s
+2024.12.22 14:09:05 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 14:09:05 INFO  time: compiled Practce_c5f4a36e81 in 0.18s
+Dec 22, 2024 2:09:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 211
+2024.12.22 14:09:45 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 14:09:45 INFO  time: compiled Practce_c5f4a36e81 in 0.51s
+Dec 22, 2024 2:10:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 226
+Dec 22, 2024 2:10:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 231
+2024.12.22 14:26:03 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 14:26:05 INFO  time: compiled Practce_c5f4a36e81 in 1.65s
+2024.12.22 15:08:45 WARN  Could not find semantic tokens for: file:///C:/Users/sayed/Desktop/Practce/pract.scala
+2024.12.22 15:08:46 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 15:08:46 INFO  time: compiled Practce_c5f4a36e81 in 0.26s
+2024.12.22 15:09:11 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 15:09:11 INFO  time: compiled Practce_c5f4a36e81 in 0.51s
+2024.12.22 15:09:44 INFO  compiling practce_c5f4a36e81 (1 scala source)
+2024.12.22 15:09:44 INFO  time: compiled Practce_c5f4a36e81 in 0.37s
+2024.12.22 15:20:11 INFO  Shutting down server
+2024.12.22 15:20:11 INFO  shutting down Metals
+2024.12.22 15:20:11 INFO  Shut down connection with build server.
+2024.12.22 15:20:11 INFO  Exiting server
