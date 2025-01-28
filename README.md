@@ -1,4 +1,4 @@
-# PySpark and Spark Projects: Distributed Data Processing
+#  Distributed Data Processing
 
 Welcome to this repository, which contains various projects and examples related to **PySpark**, **Apache Spark**, and **Distributed Data Processing**. These projects demonstrate how to use Spark's powerful capabilities for processing large datasets in a distributed manner, using Python as the programming language with PySpark.
 
