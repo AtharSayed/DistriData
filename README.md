@@ -2,16 +2,6 @@
 
 Welcome to this repository, which contains various projects and examples related to **PySpark**, **Apache Spark**, and **Distributed Data Processing**. These projects demonstrate how to use Spark's powerful capabilities for processing large datasets in a distributed manner, using Python as the programming language with PySpark.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Projects](#projects)
-- [Prerequisites](#prerequisites)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 Apache Spark is an open-source unified analytics engine for big data processing. It provides high-level APIs in multiple languages (Python, Java, Scala, and R), and supports a variety of workloads such as batch processing, streaming, machine learning, and graph processing.
